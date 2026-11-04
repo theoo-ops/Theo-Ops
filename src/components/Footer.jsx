@@ -21,12 +21,12 @@ const services = [
 const socials = [
   {
     label: "GitHub",
-    href: "https://github.com/yourusername",
+    href: "https://github.com/theoo-ops",
     text: "GH",
   },
   {
     label: "LinkedIn",
-    href: "https://linkedin.com/in/yourusername",
+    href: "https://www.linkedin.com/in/gabriel-theodore-perez-5ab80a403/",
     text: "in",
   },
   {
