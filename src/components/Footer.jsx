@@ -140,7 +140,7 @@ export default function Footer() {
             </p>
 
             <a
-              href="mailto:your-email@example.com"
+              href="mailto:theooops.co@gmail.com"
               className="mt-4 inline-flex items-center gap-2 break-all text-sm text-indigo-300 transition-colors hover:text-white"
             >
               your-email@example.com
