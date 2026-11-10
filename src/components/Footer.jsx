@@ -143,7 +143,7 @@ export default function Footer() {
               href="mailto:theooops.co@gmail.com"
               className="mt-4 inline-flex items-center gap-2 break-all text-sm text-indigo-300 transition-colors hover:text-white"
             >
-              your-email@example.com
+              theooops.co@gmail.com
               <ArrowUpRight size={15} className="shrink-0" />
             </a>
 
